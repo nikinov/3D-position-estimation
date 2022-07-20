@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Assets/OpenCVForUnity/Plugins/iOS/libopencvforUnity.a
+Assets/OpenCVForUnity/Plugins/iOS/opencv2.framework/opencv2
+Assets/OpenCVForUnity/Plugins/WebGL/2021.2/opencvforunity.bc
